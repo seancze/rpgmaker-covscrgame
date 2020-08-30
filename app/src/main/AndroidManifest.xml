@@ -23,7 +23,8 @@
         android:roundIcon="@mipmap/app_icon_round"
         android:theme="@style/AppTheme"
         android:allowBackup="true"
-        android:fullBackupContent="true">
+        android:fullBackupContent="true"
+        android:testOnly="false">
 
         <activity
             android:name=".WebPlayerActivity"

@@ -34,7 +34,7 @@ android {
         /**
          * Project Identification
          */
-        applicationId "id.application.rpgmakermv" // Change this to your applicationId.
+        applicationId "seancze.covscrgame.theperfectreality" // Change this to your applicationId.
         versionCode 1 // Set this to a higher number for game updates.
         versionName "1.0" // This is the version that the player sees.
 

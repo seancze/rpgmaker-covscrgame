@@ -25,7 +25,7 @@
     <color name="icon_background">#FFF</color>
 
     <!-- Project Name -->
-    <string name="app_name">RPG Maker MV</string>
+    <string name="app_name">The Perfect Reality</string>
 
     <!-- Web Linking -->
     <string name="app_scheme">https</string>
