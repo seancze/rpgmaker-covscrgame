@@ -13,6 +13,8 @@
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+  android:theme="@style/AppTheme"
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="systems.altimit.rpgmakermv">
@@ -21,7 +23,7 @@
         android:label="@string/app_name"
         android:icon="@mipmap/app_icon"
         android:roundIcon="@mipmap/app_icon_round"
-        android:theme="@style/AppTheme"
+        android:theme="@android:style/Theme.Holo.NoActionBar.Fullscreen"
         android:allowBackup="true"
         android:fullBackupContent="true"
         android:testOnly="false">
